@@ -1,0 +1,15 @@
+artifact_uri: file:///project/mlruns/943726040818755514/db8c9100f45848009d0bfbac33e2d69b/artifacts
+end_time: 1738553446090
+entry_point_name: ''
+experiment_id: '943726040818755514'
+lifecycle_stage: active
+run_id: db8c9100f45848009d0bfbac33e2d69b
+run_name: rogue-bat-668
+run_uuid: db8c9100f45848009d0bfbac33e2d69b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738553438544
+status: 3
+tags: []
+user_id: workbench
