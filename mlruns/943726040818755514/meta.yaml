@@ -1,0 +1,6 @@
+artifact_location: file:///project/mlruns/943726040818755514
+creation_time: 1738553323517
+experiment_id: '943726040818755514'
+last_update_time: 1738553323517
+lifecycle_stage: active
+name: mlflow pytorch demo
