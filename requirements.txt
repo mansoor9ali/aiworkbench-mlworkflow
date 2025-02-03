@@ -1,1 +1,3 @@
-jupyterlab>3.0
+jupyterlab==4.3.5
+mlflow
+pyngrok
