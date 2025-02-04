@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/537731603884819466/16da442d4ce44d70acbd8ca4e2adac95/artifacts
+end_time: 1738651140432
+entry_point_name: ''
+experiment_id: '537731603884819466'
+lifecycle_stage: active
+run_id: 16da442d4ce44d70acbd8ca4e2adac95
+run_name: smiling-lynx-841
+run_uuid: 16da442d4ce44d70acbd8ca4e2adac95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738651140127
+status: 3
+tags: []
+user_id: workbench

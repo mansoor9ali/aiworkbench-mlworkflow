@@ -1,0 +1,15 @@
+artifact_uri: file:///project/mlruns/406480000275250726/b368b869567c4af1b4d5beced545bc42/artifacts
+end_time: 1738630465139
+entry_point_name: ''
+experiment_id: '406480000275250726'
+lifecycle_stage: active
+run_id: b368b869567c4af1b4d5beced545bc42
+run_name: serious-shrike-998
+run_uuid: b368b869567c4af1b4d5beced545bc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738630456612
+status: 3
+tags: []
+user_id: workbench
