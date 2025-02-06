@@ -10,6 +10,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+models
+mlruns
+runs
+mlartifacts
+data
 
 # Temp directories, notebooks created by jupyterlab
 .ipynb_checkpoints
