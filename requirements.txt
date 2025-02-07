@@ -1,3 +1,4 @@
 jupyterla==4.3.5
 mlflow
 pyngrok
+jupyterlab==4.3.5
