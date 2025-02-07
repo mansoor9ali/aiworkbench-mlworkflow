@@ -44,13 +44,13 @@ def create_dataloaders(
   train_data = datasets.ImageFolder(train_dir, transform=transforms_train)
   test_data = datasets.ImageFolder(test_dir, transform=transforms_test)
 
-
     
-  train_data.classes = train_data.classes.sort()
-  test_data.classes = test_data.classes.sort()
+  train_data.classes.sort()
+  test_data.classes.sort()
     
    # Get class names   
   class_names = train_data.classes
+
     
   # Turn images into data loaders
   train_dataloader = DataLoader(
